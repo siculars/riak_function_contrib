@@ -2,7 +2,7 @@
 
 Riak Function Contrib is a community-powered library of MapReduce and Pre-/Post-Commit Hook Functions. It exists for several reasons:
 
-1. So Riak users can contribute functions they've written back to the community in one centralized, east-to-manage location
+1. So Riak users can contribute functions they've written back to the community in one centralized, easy-to-manage location
 2. To provide users who are new to Riak with a list of previously-created and tested functions that may suit their usage needs 
 3. To lower the barrier to entry to using and mastering MapReduce and Pre-/Post-Commit Hook Functions in Riak
 
@@ -41,7 +41,7 @@ In addition to your source, you're encourage to take 10 minutes and put together
 
 This is actually pretty simple. We use [Gollum](https://github.com/github/gollum) to generate this site. What that means is your overview file can be written in either [Markdown](http://en.wikipedia.org/wiki/Markdown) or [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)format. Gollum will take care of converting them to _html_ and, once you've sent the pull request, we'll regenerate the site and make sure your page goes live.
 
-And, since we using Gollum, you can build the site locally to make sure everything looks right before you send your pull request. Specifically, here's what you need to do:
+And, since we're using Gollum, you can build the site locally to make sure everything looks right before you send your pull request. Specifically, here's what you need to do:
 
 1. [Install Gollum](https://github.com/github/gollum)
 2. [Install 'Gollum Site'](https://github.com/dreverri/gollum-site) (This is a simple static site generator for Gollum)
